@@ -2,7 +2,15 @@
 Introducing our innovative Tensor Camera App, designed to streamline the process of testing and evaluating newly trained models in real-world scenarios. Our app seamlessly integrates with Python servers, providing a user-friendly interface to send camera feeds for instant predictions.
 
 >Download Links will be provided here when the App is Published.⏳⏳
-
+#DEMO IMAGES
+<table>
+  <tr>
+    <td><img src="/IMG_3738.PNG" alt="Server Config Screen" title="Server Config Screen" width="200"></td>
+    <td><img src="/IMG_3743.PNG" alt="Cat Pred" title="Cat Pred" width="200"></td>
+    <td><img src="/IMG_3744.PNG" alt="Dog Pred" title="Dog Pred" width="200"></td>
+    <td><img src="/IMG_3748.PNG" alt="Airpods Found" title="Airpods Found" width="200"></td>
+  </tr>
+</table>
 ## 🤔 How to use Tensor Camera ?
 
 1. Download the Tensor Camera from App Store.
@@ -44,18 +52,3 @@ INFO:werkzeug:WARNING: This is a development server. Do not use it in a producti
 9. Press Test Connection
 10. When `Connected` then open the Camera and See the Real-Time 🪄Magic.
 
-
-# DEMO IMAGES
-![SERVER CONFIG.](/IMG_3738.PNG "Server Config Screen")
-![Cat Pred.](/IMG_3743.PNG "Cat Pred")
-![Dog Pred.](/IMG_3744.PNG "Dog Pred")
-![Airpods Pred.](/IMG_3748.PNG "Airpods Found")
-
-<table>
-  <tr>
-    <td><img src="/IMG_3738.PNG" alt="Server Config Screen" title="Server Config Screen" width="200"></td>
-    <td><img src="/IMG_3743.PNG" alt="Cat Pred" title="Cat Pred" width="200"></td>
-    <td><img src="/IMG_3744.PNG" alt="Dog Pred" title="Dog Pred" width="200"></td>
-    <td><img src="/IMG_3748.PNG" alt="Airpods Found" title="Airpods Found" width="200"></td>
-  </tr>
-</table>
