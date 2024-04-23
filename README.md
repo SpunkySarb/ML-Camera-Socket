@@ -13,6 +13,7 @@ Introducing our innovative Tensor Camera App, designed to streamline the process
     <td><img src="/IMG_3748.PNG" alt="Airpods Found" title="Airpods Found" width="200"></td>
   </tr>
 </table>
+
 ## 🤔 How to use Tensor Camera ?
 
 1. Download the Tensor Camera from App Store.
