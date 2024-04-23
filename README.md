@@ -2,10 +2,6 @@
 Introducing our innovative Tensor Camera App, designed to streamline the process of testing and evaluating newly trained models in real-world scenarios. Our app seamlessly integrates with Python servers, providing a user-friendly interface to send camera feeds for instant predictions.
 
 >Download Links will be provided here when the App is Published.⏳⏳
-# DEMO IMAGES
-![SERVER CONFIG.](/IMG_3738.PNG "Server Config Screen") ![SERVER CONFIG.](/IMG_3738.PNG "Server Config Screen")
-![SERVER CONFIG.](/IMG_3738.PNG "Server Config Screen")
-![SERVER CONFIG.](/IMG_3738.PNG "Server Config Screen")
 
 ## 🤔 How to use Tensor Camera ?
 
@@ -47,3 +43,10 @@ INFO:werkzeug:WARNING: This is a development server. Do not use it in a producti
 8. Use the correct `IP Address` and `PORT` in the App.
 9. Press Test Connection
 10. When `Connected` then open the Camera and See the Real-Time 🪄Magic.
+
+
+# DEMO IMAGES
+![SERVER CONFIG.](/IMG_3738.PNG "Server Config Screen")
+![Cat Pred.](/IMG_3743.PNG "Cat Pred")
+![Dog Pred.](/IMG_3744.PNG "Dog Pred")
+![Airpods Pred.](/IMG_3748.PNG "Airpods Found")
