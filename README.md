@@ -3,8 +3,7 @@ Introducing our innovative Tensor Camera App, designed to streamline the process
 
 >Download Links will be provided here when the App is Published.⏳⏳
 # DEMO IMAGES
-![SERVER CONFIG.](/IMG_3738.PNG "Server Config Screen")
-![SERVER CONFIG.](/IMG_3738.PNG "Server Config Screen")
+![SERVER CONFIG.](/IMG_3738.PNG "Server Config Screen") ![SERVER CONFIG.](/IMG_3738.PNG "Server Config Screen")
 ![SERVER CONFIG.](/IMG_3738.PNG "Server Config Screen")
 ![SERVER CONFIG.](/IMG_3738.PNG "Server Config Screen")
 
