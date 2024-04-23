@@ -50,3 +50,12 @@ INFO:werkzeug:WARNING: This is a development server. Do not use it in a producti
 ![Cat Pred.](/IMG_3743.PNG "Cat Pred")
 ![Dog Pred.](/IMG_3744.PNG "Dog Pred")
 ![Airpods Pred.](/IMG_3748.PNG "Airpods Found")
+
+<table>
+  <tr>
+    <td><img src="/IMG_3738.PNG" alt="Server Config Screen" title="Server Config Screen" width="200"></td>
+    <td><img src="/IMG_3743.PNG" alt="Cat Pred" title="Cat Pred" width="200"></td>
+    <td><img src="/IMG_3744.PNG" alt="Dog Pred" title="Dog Pred" width="200"></td>
+    <td><img src="/IMG_3748.PNG" alt="Airpods Found" title="Airpods Found" width="200"></td>
+  </tr>
+</table>
