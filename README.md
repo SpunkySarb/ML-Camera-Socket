@@ -49,6 +49,8 @@ INFO:werkzeug:WARNING: This is a development server. Do not use it in a producti
  * Running on http://192.168.2.118:8080
  ```
 
+<img src="/IMG_3738.PNG" alt="Server Config Screen" title="Server Config Screen" width="200">
+
 >📝 NOTE: Do not Use `127.0.0.1:8080` in the Server Configuration
 
 8. Use the correct `IP Address` and `PORT` in the App.
