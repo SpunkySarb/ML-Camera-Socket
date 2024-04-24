@@ -4,8 +4,8 @@ Introducing our innovative Tensor Camera App, designed to streamline the process
 
 | Platform | Download                                |
 |----------|-----------------------------------------|
-| iOS      | <a target="_blank" href="https://apps.apple.com/ca/app/tensor-camera/id6476598066?platform=iphone"><img  src="/assets/APPSTORE.png" alt="iOS Download" title="App Store Link" width="150"></a>  |
-| Android  | <a target="_blank" href="https://1drv.ms/u/s!Alv1d6Fcom3cjrY-rnx8uPxcbjAI9A?e=oBf9Nu"><img title="APK Download" src="/assets/ANDROID.JPG" alt="Amdroid Download" width="150"></a> |
+| iOS      | <a target="_blank" href="https://apps.apple.com/ca/app/tensor-camera/id6476598066?platform=iphone"><img  src="/assets/APPSTORE.png" alt="iOS Download" title="App Store Link" width="100"></a>  |
+| Android  | <a target="_blank" href="https://1drv.ms/u/s!Alv1d6Fcom3cjrY-rnx8uPxcbjAI9A?e=oBf9Nu"><img title="APK Download" src="/assets/ANDROID.JPG" alt="Amdroid Download" width="100"></a> |
 
 
 
