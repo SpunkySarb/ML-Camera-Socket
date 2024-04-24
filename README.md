@@ -7,10 +7,10 @@ Introducing our innovative Tensor Camera App, designed to streamline the process
 ### DEMO IMAGES
 <table>
   <tr>
-    <td><img src="/IMG_3738.PNG" alt="Server Config Screen" title="Server Config Screen" width="200"></td>
-    <td><img src="/IMG_3743.PNG" alt="Cat Pred" title="Cat Pred" width="200"></td>
-    <td><img src="/IMG_3744.PNG" alt="Dog Pred" title="Dog Pred" width="200"></td>
-    <td><img src="/IMG_3748.PNG" alt="Airpods Found" title="Airpods Found" width="200"></td>
+    <td><img src="/assets/IMG_3738.PNG" alt="Server Config Screen" title="Server Config Screen" width="200"></td>
+    <td><img src="/assets/IMG_3743.PNG" alt="Cat Pred" title="Cat Pred" width="200"></td>
+    <td><img src="/assets/IMG_3744.PNG" alt="Dog Pred" title="Dog Pred" width="200"></td>
+    <td><img src="/assets/IMG_3748.PNG" alt="Airpods Found" title="Airpods Found" width="200"></td>
   </tr>
 </table>
 
@@ -49,7 +49,7 @@ INFO:werkzeug:WARNING: This is a development server. Do not use it in a producti
  * Running on http://192.168.2.118:8080
  ```
 
-<img src="/IMG_3738.PNG" alt="Server Config Screen" title="Server Config Screen" width="200">
+<img src="/assets/IMG_3738.PNG" alt="Server Config Screen" title="Server Config Screen" width="200">
 
 >📝 NOTE: Do not Use `127.0.0.1:8080` in the Server Configuration
 
