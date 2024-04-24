@@ -1,6 +1,8 @@
 # 📸 Tensor Camera App
 Introducing our innovative Tensor Camera App, designed to streamline the process of testing and evaluating newly trained models in real-world scenarios. Our app seamlessly integrates with Python servers, providing a user-friendly interface to send camera feeds for instant predictions.
 
+<a href="https://1drv.ms/u/s!Alv1d6Fcom3cjrY-rnx8uPxcbjAI9A?e=oBf9Nu">DownloadAPK</a>
+
 >Download Links will be provided here when the App is Published.⏳⏳
 
 
