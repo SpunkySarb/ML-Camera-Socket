@@ -4,7 +4,7 @@ Introducing our innovative Tensor Camera App, designed to streamline the process
 
 | Platform | Download                                |
 |----------|-----------------------------------------|
-| iOS      | <a href="https://1drv.ms/u/s!Alv1d6Fcom3cjrY-rnx8uPxcbjAI9A?e=oBf9Nu"><img src="/assets/APPLE.PNG" alt="Server Config Screen" title="Server Config Screen" width="150"></a>  |
+| iOS      | <a href="https://1drv.ms/u/s!Alv1d6Fcom3cjrY-rnx8uPxcbjAI9A?e=oBf9Nu"><img src="/assets/APPLE.png" alt="Server Config Screen" title="Server Config Screen" width="150"></a>  |
 | Android  | <a href="https://1drv.ms/u/s!Alv1d6Fcom3cjrY-rnx8uPxcbjAI9A?e=oBf9Nu"><img src="/assets/ANDROID.JPG" alt="Server Config Screen" title="Server Config Screen" width="150"></a> |
 
 
